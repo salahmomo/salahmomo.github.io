@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saos.scawebauthn",
+    "sha256_cert_fingerprints":
+    ["5A:3B:C9:97:AA:E5:38:D3:A7:9A:3F:C0:7F:1E:D0:7A:43:86:F1:FE:3F:98:65:C1:BE:4A:1A:1A:7B:AF:E1:11"]
+  }
+}]
