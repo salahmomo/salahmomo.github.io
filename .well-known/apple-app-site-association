@@ -2,7 +2,10 @@
     "applinks": {
         "details": [
             {
-                "appIDs": [ "A2XKAF4NGP.com.saos.SCAWebAuthn, "A2XKAF4NGP.com.treezor.scacapacitorwebauthn" ],
+                "appIDs": [ 
+                    "A2XKAF4NGP.com.saos.SCAWebAuthn", 
+                    "A2XKAF4NGP.com.treezor.scacapacitorwebauthn" 
+                ],
                 "components": [
                     {
                         "/": "/*",
@@ -14,7 +17,8 @@
     },
     "webcredentials": {
         "apps": [
-            "A2XKAF4NGP.com.saos.SCAWebAuthn", "A2XKAF4NGP.com.treezor.scacapacitorwebauthn"
+            "A2XKAF4NGP.com.saos.SCAWebAuthn", 
+            "A2XKAF4NGP.com.treezor.scacapacitorwebauthn"
         ]
     }
 }
