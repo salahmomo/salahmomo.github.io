@@ -15,4 +15,13 @@
     "sha256_cert_fingerprints":
     ["95:50:EE:0F:BE:6C:A0:3A:0F:FF:48:2D:58:40:C5:0D:83:5A:F1:84:E4:79:A2:0A:C7:A3:94:D1:9C:B2:A6:84"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.treezor.scawebauthnplugin",
+    "sha256_cert_fingerprints":
+    ["84:A4:6C:E5:0F:ED:6E:DB:8F:37:71:8E:9A:0D:D9:F4:B6:56:BF:B7:55:62:44:2E:49:41:4F:E0:D5:ED:F7:EB"]
+  }
 }]
