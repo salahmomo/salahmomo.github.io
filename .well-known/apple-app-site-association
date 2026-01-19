@@ -14,7 +14,7 @@
     },
     "webcredentials": {
         "apps": [
-            "A2XKAF4NGP.com.saos.SCAWebAuthn"
+            "A2XKAF4NGP.com.saos.SCAWebAuthn", "A2XKAF4NGP.com.capacitor.scawebauthn"
         ]
     }
 }
