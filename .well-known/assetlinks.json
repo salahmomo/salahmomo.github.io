@@ -4,15 +4,6 @@
     "namespace": "android_app",
     "package_name": "com.saos.scawebauthn",
     "sha256_cert_fingerprints":
-    ["5A:3B:C9:97:AA:E5:38:D3:A7:9A:3F:C0:7F:1E:D0:7A:43:86:F1:FE:3F:98:65:C1:BE:4A:1A:1A:7B:AF:E1:11"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.saos.scawebauthn",
-    "sha256_cert_fingerprints":
-    ["95:50:EE:0F:BE:6C:A0:3A:0F:FF:48:20:58:40:05:0D:83:5A:F1:84:E4:79:A2:0A:C7:A3:94:D1:9C:B2:A6:84"]
+    ["5A:3B:C9:97:AA:E5:38:D3:A7:9A:3F:C0:7F:1E:D0:7A:43:86:F1:FE:3F:98:65:C1:BE:4A:1A:1A:7B:AF:E1:11", "95:50:EE:0F:BE:6C:A0:3A:0F:FF:48:20:58:40:05:0D:83:5A:F1:84:E4:79:A2:0A:C7:A3:94:D1:9C:B2:A6:84"]
   }
 }]
