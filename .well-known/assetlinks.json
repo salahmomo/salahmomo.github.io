@@ -20,7 +20,7 @@
   "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.treezor.scawebauthnplugin",
+    "package_name": "com.capacitor.scawebauthn",
     "sha256_cert_fingerprints":
     ["84:A4:6C:E5:0F:ED:6E:DB:8F:37:71:8E:9A:0D:D9:F4:B6:56:BF:B7:55:62:44:2E:49:41:4F:E0:D5:ED:F7:EB"]
   }
